@@ -1,0 +1,4 @@
+# Nmap 7.93 scan initiated Mon Mar  3 16:51:18 2025 as: nmap -p 53 --open -Pn -oG dns-servers2.txt 10.0.5.0/24
+Host: 10.0.5.22 ()	Status: Up
+Host: 10.0.5.22 ()	Ports: 53/open/tcp//domain///
+# Nmap done at Mon Mar  3 16:51:20 2025 -- 256 IP addresses (256 hosts up) scanned in 1.67 seconds
